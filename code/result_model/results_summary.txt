@@ -1,0 +1,81 @@
+Posterior corona radiata R 各折結果:
+Posterior corona radiata R 各折結果:
+Fold1: ACC:0.7450, SEN:0.7791, SPE:0.7193, PRE:0.6768
+Fold2: ACC:0.6400, SEN:0.2093, SPE:0.9649, PRE:0.8182
+Fold3: ACC:0.6850, SEN:0.3765, SPE:0.9130, PRE:0.7619
+Fold4: ACC:0.6550, SEN:0.2706, SPE:0.9391, PRE:0.7667
+Fold5: ACC:0.7150, SEN:0.5412, SPE:0.8435, PRE:0.7188
+Posterior corona radiata R 平均結果 → ACC:0.6880, SEN:0.4353, SPE:0.8760, PRE:0.7485\nRetrolenticular part of internal capsule R 各折結果:
+Retrolenticular part of internal capsule R 各折結果:
+Fold1: ACC:0.6750, SEN:0.9535, SPE:0.4649, PRE:0.5734
+Fold2: ACC:0.7400, SEN:0.6279, SPE:0.8246, PRE:0.7297
+Fold3: ACC:0.6900, SEN:0.6353, SPE:0.7304, PRE:0.6353
+Fold4: ACC:0.7700, SEN:0.6353, SPE:0.8696, PRE:0.7826
+Fold5: ACC:0.7350, SEN:0.6235, SPE:0.8174, PRE:0.7162
+Retrolenticular part of internal capsule R 平均結果 → ACC:0.7220, SEN:0.6951, SPE:0.7414, PRE:0.6875\nAnterior corona radiata R 各折結果:
+Anterior corona radiata R 各折結果:
+Fold1: ACC:0.7200, SEN:0.7442, SPE:0.7018, PRE:0.6531
+Fold2: ACC:0.6000, SEN:0.0698, SPE:1.0000, PRE:1.0000
+Fold3: ACC:0.6300, SEN:0.1529, SPE:0.9826, PRE:0.8667
+Fold4: ACC:0.7200, SEN:0.7882, SPE:0.6696, PRE:0.6381
+Fold5: ACC:0.6450, SEN:0.8941, SPE:0.4609, PRE:0.5507
+Anterior corona radiata R 平均結果 → ACC:0.6630, SEN:0.5298, SPE:0.7630, PRE:0.7417\nTapetum L 各折結果:
+Tapetum L 各折結果:
+Fold1: ACC:0.7500, SEN:0.5581, SPE:0.8947, PRE:0.8000
+Fold2: ACC:0.6400, SEN:0.9070, SPE:0.4386, PRE:0.5493
+Fold3: ACC:0.6200, SEN:0.7529, SPE:0.5217, PRE:0.5378
+Fold4: ACC:0.7550, SEN:0.6118, SPE:0.8609, PRE:0.7647
+Fold5: ACC:0.5100, SEN:0.9765, SPE:0.1652, PRE:0.4637
+Tapetum L 平均結果 → ACC:0.6550, SEN:0.7613, SPE:0.5762, PRE:0.6231\nSuperior corona radiata R 各折結果:
+Superior corona radiata R 各折結果:
+Fold1: ACC:0.6550, SEN:0.4419, SPE:0.8158, PRE:0.6441
+Fold2: ACC:0.5800, SEN:0.8953, SPE:0.3421, PRE:0.5066
+Fold3: ACC:0.6500, SEN:0.5882, SPE:0.6957, PRE:0.5882
+Fold4: ACC:0.6900, SEN:0.4118, SPE:0.8957, PRE:0.7447
+Fold5: ACC:0.6750, SEN:0.4941, SPE:0.8087, PRE:0.6562
+Superior corona radiata R 平均結果 → ACC:0.6500, SEN:0.5663, SPE:0.7116, PRE:0.6280\nSuperior fronto-occipital fasciculus (ant. internal capsule) L 各折結果:
+Superior fronto-occipital fasciculus (ant. internal capsule) L 各折結果:
+Fold1: ACC:0.7250, SEN:0.5000, SPE:0.8947, PRE:0.7818
+Fold2: ACC:0.6650, SEN:0.7209, SPE:0.6228, PRE:0.5905
+Fold3: ACC:0.6250, SEN:0.7647, SPE:0.5217, PRE:0.5417
+Fold4: ACC:0.6650, SEN:0.3059, SPE:0.9304, PRE:0.7647
+Fold5: ACC:0.7100, SEN:0.5529, SPE:0.8261, PRE:0.7015
+Superior fronto-occipital fasciculus (ant. internal capsule) L 平均結果 → ACC:0.6780, SEN:0.5689, SPE:0.7592, PRE:0.6760\nGenu of corpus callosum 各折結果:
+Genu of corpus callosum 各折結果:
+Fold1: ACC:0.4750, SEN:1.0000, SPE:0.0789, PRE:0.4503
+Fold2: ACC:0.7150, SEN:0.5581, SPE:0.8333, PRE:0.7164
+Fold3: ACC:0.6000, SEN:0.7412, SPE:0.4957, PRE:0.5207
+Fold4: ACC:0.6600, SEN:0.2588, SPE:0.9565, PRE:0.8148
+Fold5: ACC:0.7250, SEN:0.6471, SPE:0.7826, PRE:0.6875
+Genu of corpus callosum 平均結果 → ACC:0.6350, SEN:0.6410, SPE:0.6294, PRE:0.6379\nAnterior corona radiata L 各折結果:
+Anterior corona radiata L 各折結果:
+Fold1: ACC:0.7300, SEN:0.4186, SPE:0.9649, PRE:0.9000
+Fold2: ACC:0.7100, SEN:0.4884, SPE:0.8772, PRE:0.7500
+Fold3: ACC:0.5950, SEN:0.0706, SPE:0.9826, PRE:0.7500
+Fold4: ACC:0.7450, SEN:0.6824, SPE:0.7913, PRE:0.7073
+Fold5: ACC:0.7300, SEN:0.5765, SPE:0.8435, PRE:0.7313
+Anterior corona radiata L 平均結果 → ACC:0.7020, SEN:0.4473, SPE:0.8919, PRE:0.7677\nBody of corpus callosum 各折結果:
+Body of corpus callosum 各折結果:
+Fold1: ACC:0.6700, SEN:0.2674, SPE:0.9737, PRE:0.8846
+Fold2: ACC:0.6400, SEN:0.3140, SPE:0.8860, PRE:0.6750
+Fold3: ACC:0.6500, SEN:0.5882, SPE:0.6957, PRE:0.5882
+Fold4: ACC:0.6950, SEN:0.5529, SPE:0.8000, PRE:0.6714
+Fold5: ACC:0.6900, SEN:0.5412, SPE:0.8000, PRE:0.6667
+Body of corpus callosum 平均結果 → ACC:0.6690, SEN:0.4527, SPE:0.8311, PRE:0.6972\nPosterior corona radiata L 各折結果:
+Posterior corona radiata L 各折結果:
+Fold1: ACC:0.6250, SEN:0.9186, SPE:0.4035, PRE:0.5374
+Fold2: ACC:0.6550, SEN:0.9070, SPE:0.4649, PRE:0.5612
+Fold3: ACC:0.6100, SEN:0.8588, SPE:0.4261, PRE:0.5252
+Fold4: ACC:0.6900, SEN:0.5294, SPE:0.8087, PRE:0.6716
+Fold5: ACC:0.6950, SEN:0.3882, SPE:0.9217, PRE:0.7857
+Posterior corona radiata L 平均結果 → ACC:0.6550, SEN:0.7204, SPE:0.6050, PRE:0.6162\n所有切面平均結果：
+Posterior corona radiata R 平均 → ACC:0.6880, SEN:0.4353, SPE:0.8760, PRE:0.7485
+Retrolenticular part of internal capsule R 平均 → ACC:0.7220, SEN:0.6951, SPE:0.7414, PRE:0.6875
+Anterior corona radiata R 平均 → ACC:0.6630, SEN:0.5298, SPE:0.7630, PRE:0.7417
+Tapetum L 平均 → ACC:0.6550, SEN:0.7613, SPE:0.5762, PRE:0.6231
+Superior corona radiata R 平均 → ACC:0.6500, SEN:0.5663, SPE:0.7116, PRE:0.6280
+Superior fronto-occipital fasciculus (ant. internal capsule) L 平均 → ACC:0.6780, SEN:0.5689, SPE:0.7592, PRE:0.6760
+Genu of corpus callosum 平均 → ACC:0.6350, SEN:0.6410, SPE:0.6294, PRE:0.6379
+Anterior corona radiata L 平均 → ACC:0.7020, SEN:0.4473, SPE:0.8919, PRE:0.7677
+Body of corpus callosum 平均 → ACC:0.6690, SEN:0.4527, SPE:0.8311, PRE:0.6972
+Posterior corona radiata L 平均 → ACC:0.6550, SEN:0.7204, SPE:0.6050, PRE:0.6162
